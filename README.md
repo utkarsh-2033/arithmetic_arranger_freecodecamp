@@ -2,7 +2,7 @@
 <b> Ihis problem is part of 5 compulsory projects of SCIENTIFIC COMPUTING PYTHON CERTIFICATION course on freeccodecamp.org <b>
 
 #the problem is as follows
-Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
+<pre>Create a function that receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side. The function should optionally take a second argument. When the second argument is set to True, the answers should be displayed.
 
 Example
 Function Call:
@@ -34,4 +34,4 @@ If the user supplied the correct format of problems, the conversion you return w
 There should be a single space between the operator and the longest of the two operands, the operator will be on the same line as the second operand, both operands will be in the same order as provided (the first will be the top one and the second will be the bottom).
 Numbers should be right-aligned.
 There should be four spaces between each problem.
-There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)
+There should be dashes at the bottom of each problem. The dashes should run along the entire length of each problem individually. (The example above shows what this should look like.)</pre>
